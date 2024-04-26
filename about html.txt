@@ -1,0 +1,219 @@
+<DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    
+    <!--Copy Paste tong part nato kase need to-->
+    <link rel="stylesheet" href="about.css">
+     <title>E-commerce Project</title>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+      <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+      <script src="https://kit.fontawesome.com/332a215f17.js" crossorigin="anonymous"></script>
+      <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <!--Hanggang tong part nato kase need to-->
+    
+    </head>
+    <body>
+      <!--Navigations naten wag kayong desisyon HAHAHA-->
+      <nav class="navbar navbar-expand-sm navbar-dark bg-black">
+        <div class="container">
+          <div class="logo">
+            <a href="index.html">
+            <img src="design/logo.png"></a>
+              </div>
+          <a href="index.html" class="navbar-brand" style="color: orange;margin-left: 5px;">Meta Genz Gaming</a>
+          <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item active" >
+                <a href="index.html"class="nav-link" style="color: orange">Home</a>
+              </li>
+              <li class="nav-item">
+                <a href="orders.html" class="nav-link" style="color: white">Order Now</a>
+              </li>
+              <li class="nav-item">
+                <a href="SignUp.html" class="nav-link" style="color: white">Sign Up</a>
+              </li>
+          <li class="nav-item">
+            <a href="Login.html" class="nav-link" style="color: white">Log In</a>
+          </li>
+          <li class="nav-item">
+            <a href="about.html" class="nav-link" style="color: white">About</a>
+          </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      
+      <!--Ending Codes sa Navi-->
+     
+      <!-- MGG Part omay  -->
+<div class="team-area" style="background-color: black;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="section-title text-center">
+          <h2 style="font-size: 50px; color: orange">Meta Genz Gaming</h2>
+          <p style="font-size: 40px; color: white;">Meet our "Nag iinom pero nagawa Project" Team</p>
+        </div>
+         <!--== Single Team Item ==-->
+      <div class="col-md-3" style=" margin-left: 400px; margin-top: 50px;">
+        <div class="single-team">
+          <div class="team-img">
+            <img src="design/Developers/Vincent.jpg" alt="" class="img-responsive">
+          </div>
+          <div class="team-content">
+            <div class="team-info">
+              <h3>Vincent S. Cachapero</h3>
+              <p>23 Years Old<br><br>Lead Developer</p>
+            </div>
+            <p class="team-text"">Website Starter / All Around</p>
+          </div>
+        </div>
+      </div>
+      </div>
+
+      <!--== Single Team Item ==-->
+      <div class="col-md-3" style="margin-top: 60px;">
+        <div class="single-team">
+          <div class="team-img">
+            <img src="design/Developers/Albert.jpg" alt="" class="img-responsive">
+          </div>
+          <div class="team-content">
+            <div class="team-info">
+              <h3>Albert Son P. Rivera</h3>
+              <p>19 Years Old<br><br>Registration Developer</p>
+            </div>
+            <p class="team-text">Sign Up / Login / Logo Design</p>
+          </div>
+        </div>
+      </div>
+
+      <!--== Single Team Item ==-->
+      <div class="col-md-3" style="margin-top: 100px;">
+        <div class="single-team">
+          <div class="team-img">
+            <img src="design/Developers/Aaron.jpg" alt="" class="img-responsive">
+          </div>
+          <div class="team-content">
+            <div class="team-info">
+              <h3>Aaron Paul Carabbay</h3>
+              <p>29 Years Old<br><br>Details and Slider Provider</p>
+            </div>
+            <p class="team-text">Footer / Website Mission Vision</p>
+          </div>
+        </div>
+      </div>
+      <!--== Single Team Item ==-->
+      <div class="col-md-3" style="margin-top: 100px;">
+        <div class="single-team">
+          <div class="team-img">
+            <img src="design/Developers/Mohaimen.jpg" alt="" class="img-responsive">
+          </div>
+          <div class="team-content">
+            <div class="team-info">
+              <h3>Mohaimen Sultan</h3>
+              <p>19 Years Oldr</p>
+            </div>
+            <p class="team-text">Gaming Equipment With Prices Provider</p>
+          </div>
+        </div>
+      </div>
+      <!--== Single Team Item ==-->
+      <div class="col-md-3" style="margin-top: 60px;">
+        <div class="single-team">
+          <div class="team-img">
+            <img src="design/Developers/Jonathan.jpg" alt="" class="img-responsive">
+          </div>
+          <div class="team-content">
+            <div class="team-info">
+              <h3>Jonathan Quiel DeJesus</h3>
+              <p>20 Years Old</p>
+            </div>
+            <p class="team-text">2021 Games With Prices Provider</p>
+          </div>
+        </div>
+      </div>
+      <!--== Single Team Item ==-->
+      <div class="col-md-3" style="margin-left: 420px;">
+        <div class="single-team">
+          <div class="team-img">
+            <img src="design/Developers/Lore.png" alt="" class="img-responsive">
+          </div>
+          <div class="team-content">
+            <div class="team-info">
+              <h3>Lore Axel Pantaleon</h3>
+              <p>20 Years Old</p>
+            </div>
+            <p class="team-text">Body Details and Image Provider</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- End MGG Part omay  -->
+<!--Main Header Details-->
+    <div class="jumbotron text-center" style="background-color: black; color: white; margin-top: 5px;">
+      <center><div class="inside" style="width: 89%; border: 3px solid orange; ">
+      <h1 style="color: orange; font-size: 35px;">About Us</h1>
+      <h5 style="text-align: justify; margin-left: 5px; margin-right: 10px; text-align: center;">Here at Meta Genz Gaming, we share your passion for videogames and entertainment. We believe that on these modern times, entertainment is essential for everyone and videogames are one of the best sources of interactive entertainment. Allow us to get you to play anytime and anywhere!</h5>
+      </div></center><br>
+
+      <center><div class="inside" style="width: 89%; border: 3px solid orange; ">
+      <h1 style="color: orange; font-size: 35px;">Who We Are</h1>
+      <h5 style="text-align: justify; margin-left: 5px; margin-right: 10px; text-align: center;">Meta Genz Gaming is your best stop for all your videogame needs, and more! We offer a large array of videogames, consoles, PC hardware and peripherals, and just about any videogame entertainment you may need</h5>
+      </div></center><br>
+
+      <center><div class="inside" style="width: 89%; border: 3px solid orange; ">
+      <h1 style="color: orange; font-size: 35px;">Our Vision</h1>
+      <h5 style="text-align: justify; margin-left: 5px; margin-right: 10px; text-align: center;">Our Vision is to provide the gamers in the The Philippines a means to enjoy their videogames at any time and at anywhere. We strive to bring the best service available so that not only can customers play their favorite games at any time, but also to make them feel valued.</h5>
+      </div></center><br>
+
+      <center><div class="inside" style="width: 89%; border: 3px solid orange; ">
+      <h1 style="color: orange; font-size: 35px;">Cooperate With Us!</h1>
+      <h5 style="text-align: justify; margin-left: 5px; margin-right: 10px; text-align: center;">As we strive to bring you the best services we can offer, it can only go so far without the cooperation of you, our valuable customers! Keep in touch, provide feedback, and let us know how we’re faring so we can improve on our capabilities to serve!</h5></div></center>  
+    </div>
+     <!--End of Main Details-->
+
+    <!--Footer-->
+    <footer class="footer mt-5">
+      <div class="text-center py-5">
+        <h2 class="py-3" style="color: orange">META GENZ GAMING</h2>
+        <h4 class="py-3">"Stay Lame? Or Play the Game"</h4>
+        <div class="mx-auto heading-line"></div>
+      </div>
+      <div class="container">
+        <div class="row mb-3">
+          <div class="col-lg-8 offset-lg-2 text-center">
+            <p>Follow us on our Official Facebook , Twitter and Instagram Accounts<br>All with the same username @MGGofficial </p>
+            <div class="justify-content-center">
+              <i class="fab fa-facebook fa-2x"></i>
+              <i class="fab fa-twitter fa-2x"></i>
+              <i class="fab fa-instagram fa-2x"></i>
+    
+            </div>
+          </div>
+        </div>
+        <div class="copyright text-center py-3 border-top text-light"><br>
+          <p>&copy; SPONSORED BY KUYA AARON LANG SAKALAM</p>
+    
+        </div>
+      </div>
+    </footer>
+    <!--Footer-->
+    
+    
+    
+    
+    
+    
+    </body>
+    </html>
